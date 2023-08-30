@@ -1,0 +1,522 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+.hamburger {
+    display: block;
+}
+.menu-area ul li a {
+    color:#666666 !important;
+}
+.menu-area ul li {
+    display: block;
+    margin-right:0;
+    margin-left:0;
+    margin-bottom:10px;
+}
+.menu-area ul {
+    text-align:left;
+    margin-top:15px;
+}
+.menu-area {
+    display:none;
+}
+.header-area {
+    background-color:#fff;
+    padding:20px 0;
+}
+.logo img:first-of-type {
+    display: none;
+}
+.logo img:last-of-type {
+    display: block;
+}
+
+
+.hero-item h1 {
+    font-size:60px;
+}
+.hero-item h2 {
+    font-size:60px;
+}
+.location-item i {
+    top:30%;
+    left:0%;
+}
+.select-item i {
+    left:0;
+}
+input[type="date"]{
+    width:100%;
+    padding:10px 30px;
+    font-size:14px;
+}
+.location-item img {
+    top:40%;
+    left:-5%;
+}
+.owl-prev {
+    top:110%;
+    left:42%;
+}
+.owl-next {
+    position: absolute;
+    top:110%;
+    right:42%;
+}
+
+/**************** index 2 page start *****************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+    .hamburger {
+        display: block;
+    }
+    .menu-area ul li a {
+        color:#666666 !important;
+    }
+    .menu-area ul li {
+        display: block;
+        margin-right:0;
+        margin-left:0;
+        margin-bottom:10px;
+    }
+    .menu-area ul {
+        text-align:left;
+        margin-top:15px;
+    }
+    .menu-area {
+        display:none;
+    }
+    .header-area {
+        background-color:#fff;
+        padding:20px 0;
+    }
+    .logo img:first-of-type {
+        display: none;
+    }
+    .logo img:last-of-type {
+        display: block;
+    }
+    
+
+    .hero-item h1 {
+        font-size:40px;
+    }
+    .hero-item h2 {
+        font-size:40px;
+    }
+    .location-item i {
+        top:30%;
+        left:0%;
+    }
+    .select-item i {
+        left:0;
+    }
+    input[type="date"]{
+        width:100%;
+        padding:10px 30px;
+        font-size:14px;
+    }
+    .location-item img {
+        top:40%;
+        left:-5%;
+    }
+    .owl-prev {
+        top:105%;
+        left:38%;
+    }
+    .owl-next {
+        position: absolute;
+        top:105%;
+        right:38%;
+    }
+    .discount-header h2 {
+        font-size: 40px;
+    }
+    .discount-header p {
+        font-size: 13px;
+        margin-top: 10px;
+    }
+    .discount-header {
+        margin-top: 50px;
+        margin-bottom: 20px;
+    }
+    .about-item h2 {
+        font-size: 40px;
+        line-height:50px;
+    }
+    .about-item p {
+        font-size: 13px;
+        color: #666666;
+        line-height: 25px;
+    }
+    .about-item a {
+        margin-top:20px;
+    }
+    .holi-header h2 {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 10px;
+    }
+    .holi-header p {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 20px;
+        margin-bottom:0;
+    }
+    .holi-header {
+        margin-bottom: 40px;
+    }
+    .holiday-area {
+        margin-top: 70px;
+        overflow-x: hidden;
+    }
+    .review-item h2 {
+        font-size: 40px;
+        line-height:40px;
+        font-weight:700;
+    }
+
+
+
+/**************** index 2 page start *****************/
+.traveller-area {
+    padding-bottom:80px;
+}
+.desti-slider .owl-carousel3 .owl-prev {
+    position: absolute;
+    top:30%;
+    left:10%;
+}
+.desti-slider .owl-carousel3 .owl-next {
+    position: absolute;
+    top:50%;
+    left:10%;
+}
+
+.owl-carousel2 .owl-prev {
+    position: absolute;
+    top:100%;
+    left:35%;
+}
+.owl-carousel2 .owl-next {
+    position: absolute;
+    top:100%;
+    right:35%;
+}
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 575px) {
+    .hamburger {
+        display: block;
+    }
+    .menu-area ul li a {
+        color:#666666 !important;
+    }
+    .menu-area ul li {
+        display: block;
+        margin-right:0;
+        margin-left:0;
+        margin-bottom:10px;
+    }
+    .menu-area ul {
+        text-align:left;
+        margin-top:15px;
+    }
+    .menu-area {
+        display:none;
+    }
+    .header-area {
+        background-color:#fff;
+        padding:10px 0;
+    }
+    .logo img:first-of-type {
+        display: none;
+    }
+    .logo img:last-of-type {
+        display: block;
+    }
+    
+
+    .hero-item h1 {
+        font-size:25px;
+    }
+    .hero-item h2 {
+        font-size:25px;
+    }
+    .location-item i {
+        top:30%;
+        left:0%;
+    }
+    .select-item i {
+        left:0;
+    }
+    input[type="date"]{
+        width:100%;
+        padding:10px 30px;
+        font-size:14px;
+    }
+    .location-item img {
+        top:40%;
+        left:-5%;
+    }
+    .travel-item > p {
+        font-size: 13px;
+        line-height: 25px;
+    }
+    .owl-prev {
+        top:110%;
+        left:20%;
+    }
+    .owl-next {
+        position: absolute;
+        top:110%;
+        right:20%;
+    }
+.europe-left {
+    flex-direction: column;
+    width:100%;
+}
+.e-left-img {
+    width:100%;
+    text-align: center;
+}
+.europe-left-text {
+    padding:10px;
+    text-align: center;
+    width:100%;
+}
+.read-btn {
+    margin-left: auto;
+    margin-right: auto;
+}
+.logo img {
+    width:70%;
+}
+.about-item h2 {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+}
+.discount-header h2 {
+    font-size: 25px;
+}
+.discount-header p {
+    font-size:13px;
+    line-height:22px;
+}
+.discount-header {
+    width: 100%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.about-item p {
+    font-size: 13px;
+    line-height: 22px;
+}
+.about-item a {
+    margin-top:15px;
+    font-size:13px;
+}
+.holi-header h2 {
+    font-size: 25px;
+    line-height: 25px;
+    margin-bottom: 5px;
+}
+.holi-header p {
+    font-size:13px;
+    line-height:25px;
+}
+.holi-header {
+    margin-bottom:30px;
+}
+.holi-body {
+    padding: 5px 0;
+}
+.holi-body h6 {
+    font-size: 13px;
+    line-height: 25px;
+}
+.holi-body h3 {
+    font-size: 18px;
+    line-height: 25px;
+}
+.holi-body p {
+    line-height: 20px;
+    font-size: 13px;
+    margin: 0;
+}
+.holiday-item {
+    margin-bottom:20px;
+}
+.dateflex {
+    flex-direction:column;
+}
+.date-item {
+    width: 100%;
+}
+.location-item img {
+    display:none;
+}
+.search-main-content {
+    padding: 20px 30px;
+}
+.search-btn button {
+    max-width:100%;
+}
+.booking-area {
+    margin-top: 20px;
+}
+
+
+/**************** index 2 page start *****************/
+.desti-slider .owl-carousel3 .owl-prev {
+    position: absolute;
+    top:30%;
+    left:10%;
+}
+.desti-slider .owl-carousel3 .owl-next {
+    position: absolute;
+    top:50%;
+    left:10%;
+}
+
+.owl-carousel2 .owl-prev {
+    position: absolute;
+    top:100%;
+    left:35%;
+}
+.owl-carousel2 .owl-next {
+    position: absolute;
+    top:100%;
+    right:35%;
+}
+.traveller-area {
+    padding-bottom:80px;
+}
+.herotext2 h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+.herotext2 p {
+    font-size: 14px;
+    line-height: 28px;
+    font-weight: 200;
+}
+
+
+
+
+
+
+
+
+
+}
+@media screen and (max-width: 400px) {
+    .desti-slider .owl-carousel3 .owl-prev {
+        position: absolute;
+        top:20%;
+        left:10%;
+    }
+    .desti-slider .owl-carousel3 .owl-next {
+        position: absolute;
+        top:55%;
+        left:10%;
+    }
+    
+    .owl-carousel2 .owl-prev {
+        position: absolute;
+        top:100%;
+        left:20%;
+    }
+    .owl-carousel2 .owl-next {
+        position: absolute;
+        top:100%;
+        right:25%;
+    }
+    .traveller-area {
+        padding-bottom:80px;
+    }
+    
+
+}
